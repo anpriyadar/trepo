@@ -1,5 +1,5 @@
 {
-  "name": "animesh900909100",
+  "name": "@anpriyadar/trepo",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/trepo"
   },
@@ -53,5 +53,11 @@
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts"
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.8.4",
+    "@mui/material": "^5.9.2"
+  }
 }
